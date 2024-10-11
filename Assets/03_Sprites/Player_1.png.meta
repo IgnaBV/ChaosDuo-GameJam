@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: 1bed3619f7b5a3246a421fd84e028157
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3445674281854026479
+    second: HeadNova
+  - first:
+      213: 6012027576878007736
+    second: Player_1_1
+  - first:
+      213: -806953552911236033
+    second: Player_1_2
+  - first:
+      213: 2543485825525749567
+    second: Player_1_3
+  - first:
+      213: 2321044483102512375
+    second: Player_1_4
+  - first:
+      213: -5412283789183631687
+    second: Player_1_5
+  - first:
+      213: 2155529626991548862
+    second: HeadECKO
+  - first:
+      213: 1106669438390437423
+    second: Player_1_7
+  - first:
+      213: 2969432753044826462
+    second: HANDNOVAR
+  - first:
+      213: -6184710487786299727
+    second: CheastNOVA
+  - first:
+      213: 7110662269419923696
+    second: HANDNOVAL
+  - first:
+      213: 1453097278850526278
+    second: Player_1_11
+  - first:
+      213: -4205721718765960673
+    second: Player_1_12
+  - first:
+      213: 6491809560628304921
+    second: Player_1_13
+  - first:
+      213: 5502853510987890396
+    second: Player_1_14
+  - first:
+      213: -6963448947233620839
+    second: Player_1_15
+  - first:
+      213: -8712276343836874126
+    second: Player_1_16
+  - first:
+      213: -2264884662216874009
+    second: HANDECKOR
+  - first:
+      213: 4409230393638390854
+    second: CheastECKO
+  - first:
+      213: 6293230929198117045
+    second: HANDECKOLL
+  - first:
+      213: -6839525773285296908
+    second: NOVAR
+  - first:
+      213: -5453527640408097789
+    second: NOVAL
+  - first:
+      213: -2055172010751545034
+    second: Player_1_22
+  - first:
+      213: 4725775020595928928
+    second: Player_1_23
+  - first:
+      213: -2018312192845670000
+    second: Player_1_24
+  - first:
+      213: 5194544042444460738
+    second: Player_1_25
+  - first:
+      213: -3732408658477671042
+    second: ECKOR
+  - first:
+      213: -7105111573736639923
+    second: ECKOL
+  - first:
+      213: 8433753385148959390
+    second: FEETR
+  - first:
+      213: -3940921326661223261
+    second: FEETL
+  - first:
+      213: 3808521303338930592
+    second: Player_1_30
+  - first:
+      213: 6519879321909370404
+    second: Player_1_31
+  - first:
+      213: -7310459166783266271
+    second: Player_1_32
+  - first:
+      213: -6235786038771476224
+    second: Player_1_33
+  - first:
+      213: -9205125834094021075
+    second: FeetECKOR
+  - first:
+      213: 4017914832890502178
+    second: FeetECKOL
+  - first:
+      213: 2276356473289754785
+    second: Player_1_36
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeadNova
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 914
+        width: 142
+        height: 120
+      alignment: 9
+      pivot: {x: 0.53387785, y: 0.047568765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2cb9dd08e71df20800000000000000
+      internalID: 3445674281854026479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadECKO
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 914
+        width: 122
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5734713, y: 0.047478832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb959a776caf9ed10800000000000000
+      internalID: 2155529626991548862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HANDNOVAR
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 823
+        width: 41
+        height: 65
+      alignment: 9
+      pivot: {x: 0.7336565, y: 0.8158222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59a5ad2b5b853920800000000000000
+      internalID: 2969432753044826462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheastNOVA
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 826
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be5dd0549e7b2aa0800000000000000
+      internalID: -6184710487786299727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HANDNOVAL
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 831
+        width: 42
+        height: 64
+      alignment: 9
+      pivot: {x: 0.15046474, y: 0.8329735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f82c8ef8a52ea260800000000000000
+      internalID: 7110662269419923696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HANDECKOR
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 827
+        width: 42
+        height: 65
+      alignment: 9
+      pivot: {x: 0.731175, y: 0.76887393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7255b46638190e0800000000000000
+      internalID: -2264884662216874009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheastECKO
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 826
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c0ca19eabb03d30800000000000000
+      internalID: 4409230393638390854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HANDECKOLL
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 830
+        width: 41
+        height: 64
+      alignment: 9
+      pivot: {x: 0.19687857, y: 0.8398266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0fa58ef2c065750800000000000000
+      internalID: 6293230929198117045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOVAR
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 775
+        width: 21
+        height: 28
+      alignment: 9
+      pivot: {x: 0.45655313, y: 0.87472534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4733beb8f1511a0800000000000000
+      internalID: -6839525773285296908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOVAL
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 775
+        width: 21
+        height: 28
+      alignment: 9
+      pivot: {x: 0.49999854, y: 0.87472534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c73bc418d2154b0800000000000000
+      internalID: -5453527640408097789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ECKOR
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 775
+        width: 21
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.81901985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d98daa912d33cc0800000000000000
+      internalID: -3732408658477671042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ECKOL
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 775
+        width: 21
+        height: 28
+      alignment: 9
+      pivot: {x: 0.48150343, y: 0.7912794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4239ed0ba2956d90800000000000000
+      internalID: -7105111573736639923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FEETR
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 746
+        width: 35
+        height: 28
+      alignment: 9
+      pivot: {x: 0.35662624, y: 0.5325841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a4d051506ba0570800000000000000
+      internalID: 8433753385148959390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FEETL
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 746
+        width: 34
+        height: 28
+      alignment: 9
+      pivot: {x: 0.35240936, y: 0.49999782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acb89ceee80f49c0800000000000000
+      internalID: -3940921326661223261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeetECKOR
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 747
+        width: 34
+        height: 28
+      alignment: 9
+      pivot: {x: 0.31723562, y: 0.6387046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26fd0223d2d04080800000000000000
+      internalID: -9205125834094021075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeetECKOL
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 746
+        width: 34
+        height: 28
+      alignment: 9
+      pivot: {x: 0.38577092, y: 0.5970939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c1630b04082c730800000000000000
+      internalID: 4017914832890502178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
