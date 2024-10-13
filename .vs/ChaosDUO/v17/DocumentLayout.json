@@ -3,7 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\ChaosDUO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF43A646-F1E0-6046-A06C-B31BB24C6246}|Assembly-CSharp.csproj|c:\\users\\asus\\chaosduo\\assets\\01_scripts\\menustart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF43A646-F1E0-6046-A06C-B31BB24C6246}|Assembly-CSharp.csproj|C:\\Users\\Asus\\ChaosDUO\\assets\\01_scripts\\playercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF43A646-F1E0-6046-A06C-B31BB24C6246}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\playercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF43A646-F1E0-6046-A06C-B31BB24C6246}|Assembly-CSharp.csproj|C:\\Users\\Asus\\ChaosDUO\\assets\\01_scripts\\playercontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF43A646-F1E0-6046-A06C-B31BB24C6246}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\playercontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF43A646-F1E0-6046-A06C-B31BB24C6246}|Assembly-CSharp.csproj|c:\\users\\asus\\chaosduo\\assets\\01_scripts\\plataformmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF43A646-F1E0-6046-A06C-B31BB24C6246}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\plataformmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF43A646-F1E0-6046-A06C-B31BB24C6246}|Assembly-CSharp.csproj|C:\\Users\\Asus\\ChaosDUO\\assets\\01_scripts\\collisiondeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF43A646-F1E0-6046-A06C-B31BB24C6246}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\collisiondeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF43A646-F1E0-6046-A06C-B31BB24C6246}|Assembly-CSharp.csproj|C:\\Users\\Asus\\ChaosDUO\\assets\\01_scripts\\physicsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF43A646-F1E0-6046-A06C-B31BB24C6246}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\physicsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF43A646-F1E0-6046-A06C-B31BB24C6246}|Assembly-CSharp.csproj|C:\\Users\\Asus\\ChaosDUO\\assets\\01_scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF43A646-F1E0-6046-A06C-B31BB24C6246}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF43A646-F1E0-6046-A06C-B31BB24C6246}|Assembly-CSharp.csproj|C:\\Users\\Asus\\ChaosDUO\\assets\\01_scripts\\menustart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF43A646-F1E0-6046-A06C-B31BB24C6246}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\menustart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,11 +38,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlataformMove.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\ChaosDUO\\Assets\\01_Scripts\\PlataformMove.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\PlataformMove.cs",
+              "ToolTip": "C:\\Users\\Asus\\ChaosDUO\\Assets\\01_Scripts\\PlataformMove.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\PlataformMove.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T01:09:29.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollisionDeath.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\ChaosDUO\\Assets\\01_Scripts\\CollisionDeath.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\CollisionDeath.cs",
+              "ToolTip": "C:\\Users\\Asus\\ChaosDUO\\Assets\\01_Scripts\\CollisionDeath.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\CollisionDeath.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T20:49:13.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerController1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\ChaosDUO\\Assets\\01_Scripts\\PlayerController1.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\PlayerController1.cs",
+              "ToolTip": "C:\\Users\\Asus\\ChaosDUO\\Assets\\01_Scripts\\PlayerController1.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\PlayerController1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:55:46.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController2.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\ChaosDUO\\Assets\\01_Scripts\\PlayerController2.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\PlayerController2.cs",
+              "ToolTip": "C:\\Users\\Asus\\ChaosDUO\\Assets\\01_Scripts\\PlayerController2.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\PlayerController2.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:19:19.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhysicsManager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\ChaosDUO\\Assets\\01_Scripts\\PhysicsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\PhysicsManager.cs",
+              "ToolTip": "C:\\Users\\Asus\\ChaosDUO\\Assets\\01_Scripts\\PhysicsManager.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\PhysicsManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:18:49.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnimationController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\ChaosDUO\\Assets\\01_Scripts\\AnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\AnimationController.cs",
+              "ToolTip": "C:\\Users\\Asus\\ChaosDUO\\Assets\\01_Scripts\\AnimationController.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\AnimationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:18:14.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MenuStart.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\ChaosDUO\\Assets\\01_Scripts\\MenuStart.cs",
               "RelativeDocumentMoniker": "Assets\\01_Scripts\\MenuStart.cs",
@@ -26,12 +130,7 @@
               "RelativeToolTip": "Assets\\01_Scripts\\MenuStart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T18:50:28.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-10-11T18:50:28.742Z"
             }
           ]
         }
